@@ -1,0 +1,6 @@
+spring.mail.host=sandbox.smtp.mailtrap.io
+spring.mail.port=587
+spring.mail.username=a42f79ac201a47
+spring.mail.password=dce7fcc6f5617a
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
